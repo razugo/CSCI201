@@ -1,0 +1,5 @@
+package wakugawa_CSCI201L_Assignment1;
+
+public class HelloWorld {
+	System.out.println("Hello World");
+}

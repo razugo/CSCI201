@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Russell Wakugawa\Documents\CSCI201\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3287283952.index
+796237820.index
+3261011649.index
+1172740577.index
+2380175872.index
